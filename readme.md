@@ -3,7 +3,7 @@
 
 ![alter text](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Project_2[Live Link]
+## Project_2[Live Link](https://project-2-theanuragharne.netlify.app/)
 
 ### HTML content writing
 ### Needs to make an sections for applying CSS properties.
