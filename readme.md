@@ -1,4 +1,4 @@
-# Project_2 HTML and CSS 
+# Project_2 HTML![alter text](screenshot/html.png) and CSS![alter text](screenshot/css.png) 
 ![alter text](https://img.shields.io/badge/iNeuron-LCO-brightgreen) ![alter text](https://img.shields.io/badge/Hitesh%20Choudhare-FullStack%20JS%20Bootcamp-lightgrey)
 
 ![alter text](https://img.shields.io/badge/HTML-CSS-orange)
